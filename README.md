@@ -12,7 +12,9 @@ Durante o projeto, foram desenvolvidos os seguintes tópicos:
 
 Para executar o projeto no terminal, digite o seguinte comando:
 
-` mvn springboot:run `
+```javascript
+mvn springboot:run
+```
 
 Após executar o comando acima, basta apenas abrir o seguinte endereço e visualizar a execução do projeto:
 
