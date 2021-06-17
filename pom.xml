@@ -8,11 +8,11 @@
 		<version>2.2.6.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>one.digitalinnovation</groupId>
-	<artifactId>personapi</artifactId>
+	<groupId>com.springboot</groupId>
+	<artifactId>bookapi</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>personapi</name>
-	<description>Person API project created for DIO</description>
+	<name>bookapi</name>
+	<description>Book API project</description>
 
 	<properties>
 		<java.version>11</java.version>
