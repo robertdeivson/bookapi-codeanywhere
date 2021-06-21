@@ -22,7 +22,7 @@ Após executar o comando acima, basta apenas abrir o seguinte endereço e visual
 localhost:8080/api/v1/books
 ```
 
-ou pode acessar a documentação da API Rest pelo Swagger
+ou pode acessar a documentação da API Rest com Swagger
 
 ```javascr
 localhost:8080/swagger-ui.html
